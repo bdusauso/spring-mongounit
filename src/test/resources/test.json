@@ -1,0 +1,16 @@
+{"collections": [
+    {
+        "collection": "person",
+        "objects": [
+            {"username": "smith"},
+            {"username" : "bdusauso"}
+        ]
+    },
+    {
+        "collection": "address",
+        "objects": [
+            {"street": "Sesame street"}
+        ]
+    }
+]
+}
